@@ -1,2 +1,3 @@
 # bubble
-a ToDoList demo
+## A ToDoList Demo
+Vue + gin + mysql
